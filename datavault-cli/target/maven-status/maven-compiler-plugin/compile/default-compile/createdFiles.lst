@@ -1,0 +1,5 @@
+com\datavault\cli\util\ChecksumUtil.class
+com\datavault\cli\client\DataVaultClient.class
+com\datavault\cli\DataVaultCli.class
+com\datavault\cli\client\DataVaultClient$1.class
+com\datavault\cli\util\ProgressBar.class
